@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ord_41c341ac965f",
+    "user_id": "usr_8cf191929009",
+    "prescription_id": null,
+    "pharmacy_id": "phm_itanagar01",
+    "outlet_kind": "pharmacy",
+    "items": [
+      "paracetamol",
+      "ors"
+    ],
+    "unavailable": [],
+    "fulfillment": "express_delivery",
+    "status": "placed",
+    "requires_doctor_code": false,
+    "created_at": "2026-09-10T18:40:18.066968+00:00"
+  },
+  {
+    "id": "ord_c361ea70b5e8",
+    "user_id": "usr_a4c9534150c6",
+    "prescription_id": null,
+    "pharmacy_id": "phm_itanagar01",
+    "outlet_kind": "pharmacy",
+    "items": [
+      "paracetamol",
+      "ors"
+    ],
+    "unavailable": [],
+    "fulfillment": "express_delivery",
+    "status": "placed",
+    "requires_doctor_code": false,
+    "created_at": "2026-09-12T19:03:30.018490+00:00"
+  }
+]

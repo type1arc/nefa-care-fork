@@ -1,0 +1,123 @@
+[
+  {
+    "id": "hsp_gangtok01",
+    "role": "hospital",
+    "name": "Hillside Care Hospital",
+    "email": "hospital.gangtok@dhruvacare.in",
+    "phone": "9100000201",
+    "license_no": "SK-HOSP-91",
+    "license_document": "data/uploads/licenses/seed_hosp.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Sikkim",
+      "district": "Gangtok",
+      "locality": "Tadong",
+      "pincode": "737102",
+      "address": "Tadong, Gangtok"
+    },
+    "departments": [
+      "General Medicine",
+      "Emergency & Trauma",
+      "Orthopedics",
+      "Cardiology Diagnostics"
+    ],
+    "franchise_tier": "Regional Hub",
+    "diagnostic_gear": [
+      "128-Slice CT",
+      "Digital X-Ray",
+      "Color Doppler Ultrasound"
+    ],
+    "emergency_capable": true,
+    "icu_beds_available": 6,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.696362+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.696378+00:00",
+    "hfr_id": "HFR-DEMO-0001",
+    "password_salt": "5a72ee52694fd376a5e07f817ac7d0eb",
+    "password_hash": "6ad7565302eed4bd36f95be3e5a024e98be0384428702df690a16c577f5129c5",
+    "suspended_at": "2026-10-19T10:47:25.393409+00:00",
+    "suspended_by": "adm_8c2abf71d8e2",
+    "moderation_note": "Suspended by admin",
+    "restored_at": "2026-10-19T10:47:27.541422+00:00",
+    "restored_by": "adm_8c2abf71d8e2"
+  },
+  {
+    "id": "hsp_itanagar01",
+    "role": "hospital",
+    "name": "Arunachal MediApp Partner Hospital",
+    "email": "hospital.itanagar@dhruvacare.in",
+    "phone": "9100000202",
+    "license_no": "AR-HOSP-104",
+    "license_document": "data/uploads/licenses/seed_ita_hosp.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Naharlagun",
+      "pincode": "791110",
+      "address": "Sector 4, Naharlagun, Itanagar"
+    },
+    "departments": [
+      "Emergency",
+      "General Medicine",
+      "Pediatrics",
+      "Cardiology",
+      "Diagnostics Lab"
+    ],
+    "franchise_tier": "Capital Supercenter",
+    "diagnostic_gear": [
+      "Automated Pathology Lab",
+      "MRI 1.5T",
+      "Echocardiogram"
+    ],
+    "emergency_capable": true,
+    "icu_beds_available": 10,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.696386+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.696391+00:00",
+    "hfr_id": "HFR-DEMO-0002",
+    "password_salt": "2bf32c6dc7ee62b74a0e9047c92a0819",
+    "password_hash": "3f13164b46241fedfc08b25be1a6d8c03a7fcabe7ad5fdd3866b1c5f55332ace"
+  },
+  {
+    "id": "hsp_guwahati01",
+    "role": "hospital",
+    "name": "Brahmaputra Healthcare & Diagnostics",
+    "email": "hospital.guwahati@dhruvacare.in",
+    "phone": "9100000203",
+    "license_no": "ASM-HOSP-512",
+    "license_document": "data/uploads/licenses/seed_asm_hosp.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Dispur",
+      "pincode": "781006",
+      "address": "GS Road, Dispur, Guwahati"
+    },
+    "departments": [
+      "Cardiology",
+      "Neurology",
+      "General Surgery",
+      "Emergency",
+      "Pathology"
+    ],
+    "franchise_tier": "Capital Supercenter",
+    "diagnostic_gear": [
+      "Cath Lab",
+      "Advanced 3T MRI",
+      "Fully Automated Blood Analysis"
+    ],
+    "emergency_capable": true,
+    "icu_beds_available": 14,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.696398+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.696402+00:00",
+    "hfr_id": "HFR-DEMO-0003",
+    "password_salt": "03d9988b46655eae5fc1d19959e27eff",
+    "password_hash": "a14ca2947f050ec1ff8ae7da9a5a6a90cb7f3f724f3eda4dae5c5d19bab963bd"
+  }
+]

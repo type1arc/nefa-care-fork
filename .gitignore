@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.tmp
+data/*.json.tmp
+data/uploads/licenses/*
+data/uploads/photos/*
+data/uploads/medical_records/*
+!data/uploads/licenses/.gitkeep
+!data/uploads/photos/.gitkeep
+!data/uploads/medical_records/.gitkeep

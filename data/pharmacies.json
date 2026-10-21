@@ -1,0 +1,97 @@
+[
+  {
+    "id": "phm_shillong01",
+    "role": "pharmacy",
+    "kind": "pharmacy",
+    "name": "Laitumkhrah Medical Stores",
+    "email": "pharmacy.shillong@dhruvacare.in",
+    "phone": "9100000101",
+    "license_no": "ML-PH-7781",
+    "license_document": "data/uploads/licenses/seed_pharm.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Meghalaya",
+      "district": "Shillong",
+      "locality": "Laitumkhrah",
+      "pincode": "793003",
+      "address": "Laitumkhrah Main Road, Shillong"
+    },
+    "inventory": [
+      "paracetamol",
+      "amoxicillin",
+      "ors",
+      "cetirizine",
+      "metformin",
+      "pantoprazole",
+      "azithromycin"
+    ],
+    "delivery_time_mins": 35,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.690398+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.690425+00:00"
+  },
+  {
+    "id": "phm_dimapur01",
+    "role": "pharmacy",
+    "kind": "drug_house",
+    "name": "Dimapur Central Drug House",
+    "email": "drughouse.dimapur@dhruvacare.in",
+    "phone": "9100000102",
+    "license_no": "NL-DH-2204",
+    "license_document": "data/uploads/licenses/seed_dh.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Nagaland",
+      "district": "Dimapur",
+      "locality": "City Tower",
+      "pincode": "797112",
+      "address": "City Tower, Dimapur"
+    },
+    "inventory": [
+      "paracetamol",
+      "ibuprofen",
+      "azithromycin",
+      "vitamin d3",
+      "metformin",
+      "amoxicillin"
+    ],
+    "delivery_time_mins": 45,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.690436+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.690442+00:00"
+  },
+  {
+    "id": "phm_itanagar01",
+    "role": "pharmacy",
+    "kind": "pharmacy",
+    "name": "Capital Care Medicos Itanagar",
+    "email": "pharmacy.itanagar@dhruvacare.in",
+    "phone": "9100000103",
+    "license_no": "AR-PH-9921",
+    "license_document": "data/uploads/licenses/seed_ita_ph.pdf",
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Ganga Market",
+      "pincode": "791113",
+      "address": "Ganga Market, Itanagar"
+    },
+    "inventory": [
+      "paracetamol",
+      "ors",
+      "cetirizine",
+      "ibuprofen",
+      "vitamin d3",
+      "amoxicillin",
+      "pantoprazole"
+    ],
+    "delivery_time_mins": 25,
+    "status": "active",
+    "verification_status": "approved",
+    "created_at": "2026-09-10T18:35:59.690452+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.690457+00:00"
+  }
+]

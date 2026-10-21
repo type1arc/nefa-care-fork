@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: dhruva-care
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    healthCheckPath: /
+    envVars:
+      - key: DHRUVA_CARE_SECRET
+        generateValue: true
+      - key: DHRUVA_CARE_ADMIN_PASSWORD
+        sync: false
+      - key: DHRUVA_CARE_ADMIN_CODE
+        sync: false

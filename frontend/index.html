@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164b34">
+  <title>Dhruva Care</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Dhruva Care home">
+      <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 4 40 14v20L24 44 8 34V14Z"/><path d="M16 26c6-1 10-5 16-13-1 10-5 17-16 19m0-6c-3-5-2-10 2-15"/></svg>
+      <span>Dhruva <strong>Care</strong></span>
+    </a>
+    <nav><a class="active" href="#home">Home</a><a href="#symptom-check">Symptom guide</a><a href="#services">My care</a></nav>
+    <button class="header-action" data-scroll="symptom-check" type="button">Get guidance</button>
+  </header>
+
+  <main id="home">
+    <section class="welcome">
+      <div class="welcome-copy">
+        <p class="kicker">CARE THAT MEETS YOU WHERE YOU ARE</p>
+        <h1>Find your next<br><em>right step.</em></h1>
+        <p class="intro">A clear, private way to understand what kind of care may help you most.</p>
+        <div class="quick-actions">
+          <button class="main-action" data-scroll="symptom-check" type="button"><span>+</span> Check symptoms</button>
+          <a href="#services">Explore my options <b>→</b></a>
+        </div>
+        <p class="urgent"><b>Need urgent help?</b> For severe symptoms, call your local emergency number now.</p>
+      </div>
+      <div class="welcome-art" aria-hidden="true">
+        <div class="sun"></div><div class="hill hill-one"></div><div class="hill hill-two"></div><div class="path"></div>
+        <div class="art-note"><span>01</span><p>Your health,<br><b>your direction.</b></p></div>
+      </div>
+    </section>
+
+    <section id="symptom-check" class="checker-area">
+      <div class="checker-heading"><p class="kicker">START HERE</p><h2>How are you feeling?</h2><p>Select symptoms below. We will suggest the kind of doctor who may be able to help.</p><div class="privacy-note"><span>⌁</span> Your answers stay private.</div></div>
+      <div class="checker-panel">
+        <div class="input-label"><label for="symptom-search">Search for a symptom</label><span>Step 1 of 2</span></div>
+        <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="symptom-search" autocomplete="off" placeholder="Try “fever” or “headache”" aria-describedby="search-help"></div>
+        <p id="search-help" class="helper">Pick a result from the list. Add as many symptoms as needed.</p>
+        <div id="suggestions" class="suggestions" role="listbox" aria-label="Symptom suggestions"></div>
+        <div class="selected-label"><span>Selected symptoms</span><button type="button" id="clear-symptoms" hidden>Clear all</button></div>
+        <div id="chosen-symptoms" class="chosen" aria-live="polite"><span class="empty-selection">No symptoms selected yet</span></div>
+        <button id="assess-button" class="assess-button" type="button" disabled>See my care guidance <b>→</b></button>
+        <p class="disclaimer">This is a guide, not a diagnosis. A qualified clinician can give you medical advice.</p>
+      </div>
+      <div id="result" class="result" aria-live="polite"></div>
+    </section>
+
+    <section id="services" class="services">
+      <div><p class="kicker">YOUR CARE, MADE SIMPLE</p><h2>Everything in one calm place.</h2></div>
+      <div class="service-grid">
+        <article><div class="service-icon green">⌁</div><h3>Private records</h3><p>You choose which doctor can view your information.</p><a href="#symptom-check">Learn about privacy →</a></article>
+        <article><div class="service-icon yellow">✦</div><h3>Verified doctors</h3><p>Find doctors and choose care with confidence.</p><a href="#symptom-check">Find a doctor →</a></article>
+        <article><div class="service-icon light">□</div><h3>Care conversations</h3><p>Secure messages and calls for you and your doctor.</p><a href="#symptom-check">How it stays private →</a></article>
+      </div>
+    </section>
+  </main>
+  <footer><a class="brand" href="#home"><span>Dhruva <strong>Care</strong></span></a><span>Guidance for better next steps — not a medical diagnosis.</span></footer>
+  <script src="/assets/app.js"></script>
+</body>
+</html>

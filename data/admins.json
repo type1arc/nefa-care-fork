@@ -1,0 +1,26 @@
+[
+  {
+    "id": "adm_c22703bbea31",
+    "email": "admin@northeast-mediapp.in",
+    "name": "Northeast MediApp Admin",
+    "role": "admin",
+    "status": "disabled",
+    "password_salt": "252a0f5ece8bbe7cb420702a7a38e3d7",
+    "password_hash": "c137690fe9d7d92b5bcfe5a4d95c09d0f2c1e94530f5cf5ec0b0704246734b2d",
+    "created_at": "2026-09-09T04:05:48.647203+00:00",
+    "admin_code_salt": "aac4427b1f530952b22f82a52243e3de",
+    "admin_code_hash": "f27d393f94a2ff8f1db6bea513a79760871bf05b89255b5691d02df185aefe10"
+  },
+  {
+    "id": "adm_8c2abf71d8e2",
+    "email": "admin@dhruvacare.in",
+    "name": "Dhruva Care Admin",
+    "role": "admin",
+    "status": "active",
+    "password_salt": "c4f6cb7d8506b810354671cc8ef21f35",
+    "password_hash": "e0467c93ad5da1a6cbcdbfb9ba2638e910bacd7fdae3f11cbdc8d467e59481a2",
+    "created_at": "2026-09-10T16:20:12.280098+00:00",
+    "admin_code_salt": "b0ba58f60de2aebb78fa7a0ce2f4dc62",
+    "admin_code_hash": "a85e10b1e9efc3652514e183bde6416f6ba6ff1a62f07ac1a23c10b27fb3e099"
+  }
+]

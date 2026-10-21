@@ -1,0 +1,20 @@
+[
+  {
+    "id": "con_343dfed6d229",
+    "appointment_id": "apt_2d0cfc167f2c",
+    "user_id": "usr_8cf191929009",
+    "doctor_id": "doc_guwahati01",
+    "status": "open",
+    "encryption": "e2ee-client-managed",
+    "created_at": "2026-09-10T18:40:17.983642+00:00"
+  },
+  {
+    "id": "con_f21be1efba7a",
+    "appointment_id": "apt_0530d32db3a9",
+    "user_id": "usr_a4c9534150c6",
+    "doctor_id": "doc_guwahati01",
+    "status": "open",
+    "encryption": "e2ee-client-managed",
+    "created_at": "2026-09-12T19:03:29.974589+00:00"
+  }
+]

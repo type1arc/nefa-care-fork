@@ -1,0 +1,75 @@
+[
+  {
+    "id": "apt_2ca58f389746",
+    "user_id": "usr_767bf771c0d3",
+    "doctor_id": "doc_guwahati01",
+    "scheduled_for": "2026-09-15T10:00",
+    "mode": "in_person",
+    "reason": "fever",
+    "status": "booked",
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Zoo Road",
+      "pincode": "781005",
+      "address": "Clinic Lane, Zoo Road"
+    },
+    "created_at": "2026-09-09T04:05:50.981626+00:00"
+  },
+  {
+    "id": "apt_2d0cfc167f2c",
+    "user_id": "usr_8cf191929009",
+    "doctor_id": "doc_guwahati01",
+    "scheduled_for": "Tomorrow 10:00-12:00 (Teleconsultation)",
+    "mode": "teleconsultation",
+    "reason": "Severe headache and mild dizziness for 2 days",
+    "status": "booked",
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Zoo Road",
+      "pincode": "781005",
+      "address": "Clinic Lane, Zoo Road, Guwahati"
+    },
+    "created_at": "2026-09-10T18:40:17.969125+00:00"
+  },
+  {
+    "id": "apt_0530d32db3a9",
+    "user_id": "usr_a4c9534150c6",
+    "doctor_id": "doc_guwahati01",
+    "scheduled_for": "Test Slot 1789239809 (Teleconsultation)",
+    "mode": "teleconsultation",
+    "reason": "Severe headache and mild dizziness for 2 days",
+    "status": "booked",
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Zoo Road",
+      "pincode": "781005",
+      "address": "Clinic Lane, Zoo Road, Guwahati"
+    },
+    "created_at": "2026-09-12T19:03:29.955885+00:00"
+  },
+  {
+    "id": "apt_4c195877c131",
+    "user_id": "usr_32926cd9b465",
+    "doctor_id": "doc_itanagar01",
+    "scheduled_for": "Monday 09:00-13:00 (In-Person OPD)",
+    "mode": "in_person",
+    "reason": "",
+    "status": "cancelled",
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Bank Tinali",
+      "pincode": "791111",
+      "address": "MediApp Partner Clinic, Bank Tinali, Itanagar"
+    },
+    "created_at": "2026-10-19T10:41:33.695302+00:00",
+    "cancelled_at": "2026-10-19T10:41:48.755390+00:00"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "usr_767bf771c0d3",
+    "role": "user",
+    "status": "active",
+    "full_name": "Neha Das",
+    "email": "neha@example.in",
+    "phone": "",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Fancy Bazar",
+      "pincode": "781001",
+      "address": ""
+    },
+    "password_salt": "5cf23f1a2dda8b5b024b6c51b0a9adb7",
+    "password_hash": "6d06c9d252ab72a1637ace960850bb9a31d47b6221aa059a185b065bc29896ac",
+    "medical_records": {
+      "history_pdfs": [
+        {
+          "id": "rec_c04b7c61268d",
+          "title": "Old OPD notes",
+          "pdf_path": "data/uploads/medical_records/mina_history.pdf",
+          "appointment_id": null,
+          "uploaded_at": "2026-09-09T04:05:51.103872+00:00"
+        }
+      ],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "created_at": "2026-09-09T04:05:50.220402+00:00"
+  },
+  {
+    "id": "usr_8cf191929009",
+    "role": "user",
+    "status": "active",
+    "full_name": "Koj Gyati",
+    "email": "patient_25280@itanagar-care.in",
+    "phone": "9862000111",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Ganga",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "beee920587e0780597d679fafa66cfed",
+    "password_hash": "bb745b2b6ecf061c07d34e8617020cb9ffdc29e7d4050f8ac2d99d3982450f05",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-09-10T18:40:17.613277+00:00"
+  },
+  {
+    "id": "usr_c99417bf2fed",
+    "role": "user",
+    "status": "active",
+    "full_name": "kacho nabam",
+    "email": "nagrajalt2026@gmail.com",
+    "phone": "8794685803",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "itanagar",
+      "locality": "",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "3171b42eb8ce94dfc54739583caa1d1a",
+    "password_hash": "0b567a4357364eac791120d31efa1106551b1f00d6dbdaf63d65481c3f961471",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-09-10T18:56:47.283769+00:00",
+    "suspended_at": "2026-10-19T10:45:17.007022+00:00",
+    "suspended_by": "adm_8c2abf71d8e2",
+    "moderation_note": "Suspended by admin",
+    "restored_at": "2026-10-19T10:45:25.273181+00:00",
+    "restored_by": "adm_8c2abf71d8e2"
+  },
+  {
+    "id": "usr_0a51c941250d",
+    "role": "user",
+    "status": "active",
+    "full_name": "abcd",
+    "email": "1234@gmail.com",
+    "phone": "9100000000",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "c9758bc8924395efdafc4714d334adaa",
+    "password_hash": "686d2d1677ba18a5dac50caa646c0ae36af14935b5ed66ea79ccf96133a159b8",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-09-11T09:10:16.812401+00:00",
+    "suspended_at": "2026-10-19T10:45:29.533525+00:00",
+    "suspended_by": "adm_8c2abf71d8e2",
+    "moderation_note": "Suspended by admin",
+    "restored_at": "2026-10-19T10:45:37.681632+00:00",
+    "restored_by": "adm_8c2abf71d8e2"
+  },
+  {
+    "id": "usr_3469a98613d8",
+    "role": "user",
+    "status": "active",
+    "full_name": "Koj Gyati",
+    "email": "patient_25416@itanagar-care.in",
+    "phone": "9862000111",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Ganga",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "00d61b4ca982ecfa9d092315e61014d6",
+    "password_hash": "d3c0dd765acd0663f1b506cc0e2996818b36bc1471cc7f29bd792920264bb488",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-09-12T19:02:05.952536+00:00"
+  },
+  {
+    "id": "usr_a4c9534150c6",
+    "role": "user",
+    "status": "active",
+    "full_name": "Koj Gyati",
+    "email": "patient_7156@itanagar-care.in",
+    "phone": "9862000111",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Ganga",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "cc0b355a9181e69d7539a6eb5b7b5b18",
+    "password_hash": "08bc24d45ce2ddff82896056ddbc63d053a9c2789fe665cb05a3ff53ebd8ca5f",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-09-12T19:03:29.928810+00:00"
+  },
+  {
+    "id": "usr_af26b5b0a49e",
+    "role": "user",
+    "status": "active",
+    "full_name": "Demo Patient",
+    "email": "demo.patient@dhruvacare.in",
+    "phone": "9100000099",
+    "password_salt": "45480cd9d0526e9cede745d4866ed825",
+    "password_hash": "a877ca44fc874b46e8f7ccfdb7a656ac902f43d3e997eb5b20de6fec9b98e77c",
+    "location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "",
+      "pincode": "",
+      "address": ""
+    },
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "created_at": "2026-10-18T16:25:25.878396+00:00",
+    "patient_code": "PT-4BD7311D"
+  },
+  {
+    "id": "usr_32926cd9b465",
+    "role": "user",
+    "status": "active",
+    "full_name": "Makura",
+    "email": "nagraj@gmail.com",
+    "phone": "9181040141",
+    "age": null,
+    "sex": null,
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "",
+      "pincode": "",
+      "address": ""
+    },
+    "password_salt": "7d21288c363446411226d3e16db21352",
+    "password_hash": "2b839f9b70072accd14c49640bd98fa949a78a6ef924bbb8d0d9aa270032cab6",
+    "medical_records": {
+      "history_pdfs": [],
+      "consultation_pdfs": [],
+      "notes": []
+    },
+    "medical_profile": {},
+    "doctor_access": [],
+    "patient_code": "PT-61EC0C72",
+    "created_at": "2026-10-19T10:40:22.635039+00:00"
+  }
+]

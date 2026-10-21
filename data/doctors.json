@@ -1,0 +1,293 @@
+[
+  {
+    "id": "doc_guwahati01",
+    "role": "doctor",
+    "status": "active",
+    "verification_status": "approved",
+    "full_name": "Dr. Ananya Baruah",
+    "email": "ananya.baruah@dhruvacare.in",
+    "phone": "9100000001",
+    "registration_no": "ASM-MED-4412",
+    "doctor_code": "DOC-ANANYA4412",
+    "specialty": "General Medicine",
+    "bio": "OPD and tele-follow-up from Guwahati for Assam and nearby states. 12+ years clinical experience.",
+    "practice_location": {
+      "region": "North East India",
+      "state": "Assam",
+      "district": "Guwahati",
+      "locality": "Zoo Road",
+      "pincode": "781005",
+      "address": "Clinic Lane, Zoo Road, Guwahati"
+    },
+    "documents": {
+      "certificate": "data/uploads/licenses/seed_doc_cert.pdf",
+      "photo": "data/uploads/photos/seed_doc_photo.jpg"
+    },
+    "availability": [
+      {
+        "day": "Monday",
+        "start": "10:00",
+        "end": "13:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Wednesday",
+        "start": "16:00",
+        "end": "19:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Friday",
+        "start": "11:00",
+        "end": "15:00",
+        "mode": "teleconsultation",
+        "open": true
+      }
+    ],
+    "consultation_fee": 400,
+    "room_status": "Room 102 (Consulting)",
+    "live_presence": "At Clinic",
+    "patients_ahead": 2,
+    "created_at": "2026-09-10T18:35:59.681727+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.681758+00:00",
+    "review_note": "Seed verified doctor",
+    "smc_number": "ASM-MED-4412",
+    "nmr_id": "NMR-DEMO-00001",
+    "password_salt": "02a8b3b35f60b108c6da2fb97a1ec529",
+    "password_hash": "1819b399cfdc47c6d705780b2872faae5b0cdc8d13811aeabe8a7ca1df3af6c1",
+    "hospital_id": "hsp_guwahati01",
+    "suspended_at": "2026-10-19T10:46:40.263208+00:00",
+    "suspended_by": "adm_8c2abf71d8e2",
+    "moderation_note": "Suspended by admin",
+    "restored_at": "2026-10-19T10:46:44.775790+00:00",
+    "restored_by": "adm_8c2abf71d8e2"
+  },
+  {
+    "id": "doc_itanagar01",
+    "role": "doctor",
+    "status": "active",
+    "verification_status": "approved",
+    "full_name": "Dr. Taba Taku",
+    "email": "taba.taku@dhruvacare.in",
+    "phone": "9100000003",
+    "registration_no": "AR-CARD-3301",
+    "doctor_code": "DOC-TABATAKU33",
+    "specialty": "Cardiology",
+    "bio": "Consultant Cardiologist serving Itanagar and Papum Pare district. Specialist in hypertension and preventative cardiology.",
+    "practice_location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "Itanagar",
+      "locality": "Bank Tinali",
+      "pincode": "791111",
+      "address": "MediApp Partner Clinic, Bank Tinali, Itanagar"
+    },
+    "documents": {
+      "certificate": "data/uploads/licenses/seed_card_cert.pdf",
+      "photo": "data/uploads/photos/seed_card_photo.jpg"
+    },
+    "availability": [
+      {
+        "day": "Monday",
+        "start": "09:00",
+        "end": "13:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Tuesday",
+        "start": "14:00",
+        "end": "18:00",
+        "mode": "teleconsultation",
+        "open": true
+      },
+      {
+        "day": "Thursday",
+        "start": "10:00",
+        "end": "14:00",
+        "mode": "in_person",
+        "open": true
+      }
+    ],
+    "consultation_fee": 500,
+    "room_status": "Cardio Suite 01",
+    "live_presence": "Active in OPD",
+    "patients_ahead": 3,
+    "created_at": "2026-09-10T18:35:59.681770+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.681774+00:00",
+    "review_note": "Seed verified doctor",
+    "smc_number": "AR-CARD-3301",
+    "nmr_id": "NMR-DEMO-00002",
+    "password_salt": "b4acaccd2a97073cd0bb6f75f88dfeba",
+    "password_hash": "8beb30f6715f66af6e39f7029598cc8eb791bc0214425f54b0c6c586bf5feedf",
+    "hospital_id": "hsp_itanagar01"
+  },
+  {
+    "id": "doc_shillong01",
+    "role": "doctor",
+    "status": "active",
+    "verification_status": "approved",
+    "full_name": "Dr. Patricia Lyngdoh",
+    "email": "patricia.lyngdoh@dhruvacare.in",
+    "phone": "9100000004",
+    "registration_no": "ML-DERM-0912",
+    "doctor_code": "DOC-PATRICIA09",
+    "specialty": "Dermatology",
+    "bio": "Senior Dermatologist in Shillong. Treating allergic rashes, skin ulcers, and chronic dermatological conditions across Meghalaya.",
+    "practice_location": {
+      "region": "North East India",
+      "state": "Meghalaya",
+      "district": "Shillong",
+      "locality": "Laitumkhrah",
+      "pincode": "793003",
+      "address": "Pineview Medical Centre, Laitumkhrah, Shillong"
+    },
+    "documents": {
+      "certificate": "data/uploads/licenses/seed_derm_cert.pdf",
+      "photo": "data/uploads/photos/seed_derm_photo.jpg"
+    },
+    "availability": [
+      {
+        "day": "Tuesday",
+        "start": "10:00",
+        "end": "14:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Thursday",
+        "start": "15:00",
+        "end": "18:00",
+        "mode": "teleconsultation",
+        "open": true
+      },
+      {
+        "day": "Saturday",
+        "start": "10:00",
+        "end": "13:00",
+        "mode": "in_person",
+        "open": true
+      }
+    ],
+    "consultation_fee": 450,
+    "room_status": "Room 204",
+    "live_presence": "Available for Teleconsult",
+    "patients_ahead": 1,
+    "created_at": "2026-09-10T18:35:59.681783+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.681786+00:00",
+    "review_note": "Seed verified doctor",
+    "smc_number": "ML-DERM-0912",
+    "nmr_id": "NMR-DEMO-00003",
+    "password_salt": "20642ea1fc689992edfb8f30dc30478c",
+    "password_hash": "b376f05569d045e63bdc73dbb78ab38f34d813b431f5c7446c70ef68b7152020",
+    "hospital_id": null
+  },
+  {
+    "id": "doc_imphal01",
+    "role": "doctor",
+    "status": "active",
+    "verification_status": "approved",
+    "full_name": "Dr. Robert Singh",
+    "email": "robert.singh@dhruvacare.in",
+    "phone": "9100000002",
+    "registration_no": "MAN-PED-1180",
+    "doctor_code": "DOC-ROBERT1180",
+    "specialty": "Pediatrics",
+    "bio": "Child health clinic based in Imphal West. Immunization, infant nutrition, and child fever triage.",
+    "practice_location": {
+      "region": "North East India",
+      "state": "Manipur",
+      "district": "Imphal West",
+      "locality": "Thangal Bazar",
+      "pincode": "795001",
+      "address": "Thangal Bazar, Imphal"
+    },
+    "documents": {
+      "certificate": "data/uploads/licenses/seed_ped_cert.pdf",
+      "photo": "data/uploads/photos/seed_ped_photo.jpg"
+    },
+    "availability": [
+      {
+        "day": "Tuesday",
+        "start": "09:00",
+        "end": "12:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Thursday",
+        "start": "11:00",
+        "end": "14:00",
+        "mode": "in_person",
+        "open": true
+      }
+    ],
+    "consultation_fee": 350,
+    "room_status": "Pediatrics Ward",
+    "live_presence": "At Clinic",
+    "patients_ahead": 4,
+    "created_at": "2026-09-10T18:35:59.681795+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.681798+00:00",
+    "review_note": "Seed verified doctor",
+    "smc_number": "MAN-PED-1180",
+    "nmr_id": "NMR-DEMO-00004",
+    "password_salt": "341264ad4597f656bde59a53799b7e24",
+    "password_hash": "a1bd648e4f0c73bd20140ab7bf01c67dcf10e42204daa31042986d2b8e29c233",
+    "hospital_id": null
+  },
+  {
+    "id": "doc_kohima01",
+    "role": "doctor",
+    "status": "active",
+    "verification_status": "approved",
+    "full_name": "Dr. Lipok Jamir",
+    "email": "lipok.jamir@dhruvacare.in",
+    "phone": "9100000005",
+    "registration_no": "NL-ORTH-5120",
+    "doctor_code": "DOC-LIPOK5120",
+    "specialty": "Orthopedic specialist",
+    "bio": "Orthopedic & joint trauma surgeon based in Kohima. Special focus on mountain terrain joint injuries and arthritis.",
+    "practice_location": {
+      "region": "North East India",
+      "state": "Nagaland",
+      "district": "Kohima",
+      "locality": "Main Town",
+      "pincode": "797001",
+      "address": "Naga Hospital Road, Kohima"
+    },
+    "documents": {
+      "certificate": "data/uploads/licenses/seed_ortho_cert.pdf",
+      "photo": "data/uploads/photos/seed_ortho_photo.jpg"
+    },
+    "availability": [
+      {
+        "day": "Wednesday",
+        "start": "10:00",
+        "end": "14:00",
+        "mode": "in_person",
+        "open": true
+      },
+      {
+        "day": "Friday",
+        "start": "14:00",
+        "end": "17:00",
+        "mode": "teleconsultation",
+        "open": true
+      }
+    ],
+    "consultation_fee": 450,
+    "room_status": "Consultation 3",
+    "live_presence": "At Hospital",
+    "patients_ahead": 1,
+    "created_at": "2026-09-10T18:35:59.681806+00:00",
+    "reviewed_at": "2026-09-10T18:35:59.681809+00:00",
+    "review_note": "Seed verified doctor",
+    "smc_number": "NL-ORTH-5120",
+    "nmr_id": "NMR-DEMO-00005",
+    "password_salt": "1b437a3be2a7116e46f3bf62100b0481",
+    "password_hash": "be7ef64c4b4f38d903d111780ee6783c7571bca9ce6a3389e90464345127e5a2",
+    "hospital_id": null
+  }
+]
