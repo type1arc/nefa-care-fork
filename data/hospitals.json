@@ -34,8 +34,8 @@
     "created_at": "2026-09-10T18:35:59.696362+00:00",
     "reviewed_at": "2026-09-10T18:35:59.696378+00:00",
     "hfr_id": "HFR-DEMO-0001",
-    "password_salt": "5a72ee52694fd376a5e07f817ac7d0eb",
-    "password_hash": "6ad7565302eed4bd36f95be3e5a024e98be0384428702df690a16c577f5129c5",
+    "password_salt": "8b032b8e228cecdb8d0bc682ac70cf8c",
+    "password_hash": "6f6dcb4c0190d0f23fea37f0dbd8ef5a85704f4c1178031b2eec8bf996ca6a63",
     "suspended_at": "2026-10-19T10:47:25.393409+00:00",
     "suspended_by": "adm_8c2abf71d8e2",
     "moderation_note": "Suspended by admin",
@@ -78,8 +78,8 @@
     "created_at": "2026-09-10T18:35:59.696386+00:00",
     "reviewed_at": "2026-09-10T18:35:59.696391+00:00",
     "hfr_id": "HFR-DEMO-0002",
-    "password_salt": "2bf32c6dc7ee62b74a0e9047c92a0819",
-    "password_hash": "3f13164b46241fedfc08b25be1a6d8c03a7fcabe7ad5fdd3866b1c5f55332ace"
+    "password_salt": "1508f211ab548c1dfd3552249470cd14",
+    "password_hash": "0591a968fd6cf04793e09c98f2373c5b5a3ff102d7a0dba66c31c5964533940c"
   },
   {
     "id": "hsp_guwahati01",
@@ -117,7 +117,35 @@
     "created_at": "2026-09-10T18:35:59.696398+00:00",
     "reviewed_at": "2026-09-10T18:35:59.696402+00:00",
     "hfr_id": "HFR-DEMO-0003",
-    "password_salt": "03d9988b46655eae5fc1d19959e27eff",
-    "password_hash": "a14ca2947f050ec1ff8ae7da9a5a6a90cb7f3f724f3eda4dae5c5d19bab963bd"
+    "password_salt": "6a5a047489b0d2a86412381a099947c9",
+    "password_hash": "9c76291b87a19ec9c866f0e5f9c35420ebd4ab4f7567fcf5d1f2ebdadab128c6"
+  },
+  {
+    "id": "hsp_ae15cd48a61e",
+    "role": "hospital",
+    "name": "qweqweqwe",
+    "email": "qweqweqwe@gmail.com",
+    "password_salt": "505b079f461485ec26c4ca2967398d9c",
+    "password_hash": "660aada0c5c65f348979ff3a007c27ce9c009c2f2b147250f7cda5a258f0aed9",
+    "phone": "1231231",
+    "license_no": "123123",
+    "hfr_id": "123",
+    "affiliated_to": "",
+    "license_document": "/home/typeiso/pproj/contrib/nefa-care-fork/data/uploads/licenses/hosp_lic_41dec26a3c2f.png",
+    "location": {
+      "region": "North East India",
+      "state": "Arunachal Pradesh",
+      "district": "e",
+      "locality": "",
+      "pincode": "",
+      "address": ""
+    },
+    "departments": [],
+    "emergency_capable": false,
+    "status": "pending",
+    "verification_status": "pending",
+    "created_at": "2026-10-27T15:24:16.200817+00:00",
+    "reviewed_at": null,
+    "review_note": ""
   }
 ]

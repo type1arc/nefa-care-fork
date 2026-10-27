@@ -55,8 +55,8 @@
     "review_note": "Seed verified doctor",
     "smc_number": "ASM-MED-4412",
     "nmr_id": "NMR-DEMO-00001",
-    "password_salt": "02a8b3b35f60b108c6da2fb97a1ec529",
-    "password_hash": "1819b399cfdc47c6d705780b2872faae5b0cdc8d13811aeabe8a7ca1df3af6c1",
+    "password_salt": "c27cd96bfb60d72b78c25533095cc0bb",
+    "password_hash": "8dbb7083ebd2b62a1571aff63ba049657af8f8875591ec1950d3c2ad144607da",
     "hospital_id": "hsp_guwahati01",
     "suspended_at": "2026-10-19T10:46:40.263208+00:00",
     "suspended_by": "adm_8c2abf71d8e2",
@@ -120,8 +120,8 @@
     "review_note": "Seed verified doctor",
     "smc_number": "AR-CARD-3301",
     "nmr_id": "NMR-DEMO-00002",
-    "password_salt": "b4acaccd2a97073cd0bb6f75f88dfeba",
-    "password_hash": "8beb30f6715f66af6e39f7029598cc8eb791bc0214425f54b0c6c586bf5feedf",
+    "password_salt": "61d76428348101661126f0aa71b3520c",
+    "password_hash": "d8f5220af551783e652eb70f714d838851717c287ac96a942d9781e303a92abb",
     "hospital_id": "hsp_itanagar01"
   },
   {
@@ -180,8 +180,8 @@
     "review_note": "Seed verified doctor",
     "smc_number": "ML-DERM-0912",
     "nmr_id": "NMR-DEMO-00003",
-    "password_salt": "20642ea1fc689992edfb8f30dc30478c",
-    "password_hash": "b376f05569d045e63bdc73dbb78ab38f34d813b431f5c7446c70ef68b7152020",
+    "password_salt": "e7b062610eff1855e2a9af731953d82c",
+    "password_hash": "c96aa267d4bf04e8219a74856afebc3b9b3e818d732528ae3c042702a9df3c52",
     "hospital_id": null
   },
   {
@@ -233,8 +233,8 @@
     "review_note": "Seed verified doctor",
     "smc_number": "MAN-PED-1180",
     "nmr_id": "NMR-DEMO-00004",
-    "password_salt": "341264ad4597f656bde59a53799b7e24",
-    "password_hash": "a1bd648e4f0c73bd20140ab7bf01c67dcf10e42204daa31042986d2b8e29c233",
+    "password_salt": "989147bde4117d0682c306871ae263aa",
+    "password_hash": "18f8c21aaee7f8c90d8b854831f1c9535dfa22ee19ee9c48586d0ba28bd2081b",
     "hospital_id": null
   },
   {
@@ -286,8 +286,8 @@
     "review_note": "Seed verified doctor",
     "smc_number": "NL-ORTH-5120",
     "nmr_id": "NMR-DEMO-00005",
-    "password_salt": "1b437a3be2a7116e46f3bf62100b0481",
-    "password_hash": "be7ef64c4b4f38d903d111780ee6783c7571bca9ce6a3389e90464345127e5a2",
+    "password_salt": "460c162c8e696c4556401685fd3bc90e",
+    "password_hash": "ca04a269a5b7eeceab56814ca79aedbb1458a58f05adaa78cf47bfcbd736029d",
     "hospital_id": null
   }
 ]
